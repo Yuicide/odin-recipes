@@ -2,7 +2,7 @@
 
 Basic Cooking Recipe Website
 
-What I learned:
+Working on this project I learned:
   * Basic tags for HTML
   * Set up HTML boilerplate
   * Make text be **bolded** or *italicized*
