@@ -1,5 +1,12 @@
 .heading {
     color: red;
-    background-color: aqua;
     font-weight: bold;
+    text-align: center;
+    font-size: 60px;
+}
+
+li a {
+    color: blue;
+    font-style: italic;
+    font-size: 30px;
 }
