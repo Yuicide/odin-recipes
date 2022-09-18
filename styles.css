@@ -10,3 +10,12 @@ li a {
     font-style: italic;
     font-size: 30px;
 }
+
+.picture {
+    height: auto;
+    width: 400px;
+    align-self: center;        /* Center picture in the middle */ 
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}                       
