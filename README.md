@@ -10,4 +10,6 @@ Working on this project I learned:
   * Add images, absolute and relative linking
   * Add links, absolute and relative linking
   * Basic Git workflow (add, commit, push, log, status)
+  * HTML classes and id's
+  * Basic CSS styling (changing font color, font size, font weight...)
 
